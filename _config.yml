@@ -1,9 +1,15 @@
 theme: jekyll-theme-minimal
+title: CV
 author: Yo mismo
 email: Correo@domain.com
 description: 
   Some details about myself. Dedicated. Determined. Defecated.
 
-# social links
-twitter_username: RealOviedo
-github_username:  gronert-m
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/gronert-m"
+- label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RealOviedo
